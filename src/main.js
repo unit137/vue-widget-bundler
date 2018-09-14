@@ -1,4 +1,4 @@
-import 'babel-polyfill';
+import 'idempotent-babel-polyfill';
 import 'document-register-element/build/document-register-element';
 import Vue from 'vue';
 import VueCustomElement from 'vue-custom-element';
